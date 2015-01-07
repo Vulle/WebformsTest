@@ -1,0 +1,6 @@
+C:\Users\Vullnet\Desktop\c# - get better\ASP.NET\Projects\ComputerOrderForm\ComputerOrderForm\obj\Debug\ComputerOrderForm.csprojResolveAssemblyReference.cache
+C:\Users\Vullnet\Desktop\c# - get better\ASP.NET\Projects\ComputerOrderForm\ComputerOrderForm\bin\ComputerOrderForm.dll.config
+C:\Users\Vullnet\Desktop\c# - get better\ASP.NET\Projects\ComputerOrderForm\ComputerOrderForm\bin\ComputerOrderForm.dll
+C:\Users\Vullnet\Desktop\c# - get better\ASP.NET\Projects\ComputerOrderForm\ComputerOrderForm\bin\ComputerOrderForm.pdb
+C:\Users\Vullnet\Desktop\c# - get better\ASP.NET\Projects\ComputerOrderForm\ComputerOrderForm\obj\Debug\ComputerOrderForm.dll
+C:\Users\Vullnet\Desktop\c# - get better\ASP.NET\Projects\ComputerOrderForm\ComputerOrderForm\obj\Debug\ComputerOrderForm.pdb
